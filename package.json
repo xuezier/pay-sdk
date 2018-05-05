@@ -1,0 +1,22 @@
+{
+  "name": "pay-sdk",
+  "version": "1.0.5",
+  "description": "include alipay, wechatpay",
+  "keywords": [
+    "alipay",
+    "wechatpay",
+    "wechat",
+    "payment"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xuezi",
+  "license": "ISC",
+  "dependencies": {
+    "ym-util": "^0.2.1",
+    "request": "^2.78.0",
+    "xml2json": "^0.10.0"
+  }
+}
